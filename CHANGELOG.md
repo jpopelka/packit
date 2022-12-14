@@ -1,3 +1,6 @@
+# 0.666.0
+
+
 # 0.65.0
 
 - Packit now correctly handles a race condition when it tries to create bodhi updates for builds that are not yet tagged properly. CLI exprience was also improved for this case. (#1803)
