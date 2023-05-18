@@ -65,4 +65,4 @@ repos:
       - id: check-rebase
         args:
           - https://github.com/packit/packit.git
-        stages: [manual, push]
+        stages: [manual, pre-push]
